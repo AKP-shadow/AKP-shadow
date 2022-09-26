@@ -1,10 +1,12 @@
 ## <h1>Hey fellas, its AKP..
-<br>
-<h3> Enthusiatic Coder whose trying out different domains of Computer Technology<br> Adept at Data Structures but still a newbie in Development side.</h4><br>
-<h4> Fields include </h4><br>
+<h3> Enthusiatic Coder whose trying out different domains of Computer Technology<br> **Adept at Data Structures** but still a newbie in Development side.</h4>
+<h4> **_Fields include_** </h4><br>
 -- 📱 Flutter based App development<br>
 -- 🖥 Web Development<br>
--- 📈 Machine learning and data analysis using python
+-- 📈 Machine learning and data analysis using python<br>
+
+ 🔭 I’m currently working on ...
+
 
 <!--
 **AKP-shadow/AKP-shadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
