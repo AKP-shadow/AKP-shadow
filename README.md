@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akp-shadow&label=Times%20door%20got%20knocked&color=43dd40&style=flat" alt="akp-shadow" /> </p>
 
-- 🔭 I’m currently working on [Academic Scheduling/assistant app](https://github.com/ATeam-SSN/AI-One.git)
+- 🔭 I’m currently working on [Summa](https://github.com/ATeam-SSN/AI-One.git)
 
-- 🌱 I’m currently learning **Flutter,Not-so-important stuffs**
+- 🌱 I’m currently learning **React/Express,Not-so-important stuffs**
 
 - ⚡ Fun fact **Elephants are not orange.**
 
